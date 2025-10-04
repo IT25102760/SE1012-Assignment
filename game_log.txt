@@ -1,35 +1,29 @@
- Move 1: Player X 
+ NEW GAME: USER vs COMPUTER 
+Player X: Human
+Player O: Computer
+
+ Move 1: Player (X) 
 | X |   |   |
 |   |   |   |
 |   |   |   |
 
- Move 2: Player O 
+ Move 2: Computer (O) 
 | X |   |   |
-| O |   |   |
-|   |   |   |
-
- Move 3: Player X 
-| X |   |   |
-| O | X |   |
-|   |   |   |
-
- Move 4: Player O 
-| X |   |   |
-| O | X |   |
 |   |   | O |
+|   |   |   |
 
- Move 5: Player X 
-| X | X |   |
-| O | X |   |
-|   |   | O |
-
- Move 6: Player O 
-| X | X | O |
-| O | X |   |
-|   |   | O |
-
- Move 7: Player X 
-| X | X | O |
-| O | X |   |
+ Move 3: Player (X) 
+| X |   |   |
 |   | X | O |
+|   |   |   |
+
+ Move 4: Computer (O) 
+| X | O |   |
+|   | X | O |
+|   |   |   |
+
+ Move 5: Player (X) 
+| X | O |   |
+|   | X | O |
+|   |   | X |
 
