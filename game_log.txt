@@ -1,29 +1,46 @@
- NEW GAME: USER vs COMPUTER 
-Player X: Human
-Player O: Computer
-
- Move 1: Player (X) 
+ NEW GAME: TIC-TAC-TOE 
+ Move 1: Player 1 (X) 
 | X |   |   |
 |   |   |   |
 |   |   |   |
 
- Move 2: Computer (O) 
+ Move 2: Computer 1 (O) 
 | X |   |   |
+| O |   |   |
+|   |   |   |
+
+ Move 3: Computer 2 (Z) 
+| X |   |   |
+| O |   | Z |
+|   |   |   |
+
+ Move 4: Player 1 (X) 
+| X |   |   |
+| O | X | Z |
+|   |   |   |
+
+ Move 5: Computer 1 (O) 
+| X |   |   |
+| O | X | Z |
 |   |   | O |
-|   |   |   |
 
- Move 3: Player (X) 
-| X |   |   |
-|   | X | O |
-|   |   |   |
+ Move 6: Computer 2 (Z) 
+| X | Z |   |
+| O | X | Z |
+|   |   | O |
 
- Move 4: Computer (O) 
-| X | O |   |
-|   | X | O |
-|   |   |   |
+ Move 7: Player 1 (X) 
+| X | Z | X |
+| O | X | Z |
+|   |   | O |
 
- Move 5: Player (X) 
-| X | O |   |
-|   | X | O |
-|   |   | X |
+ Move 8: Computer 1 (O) 
+| X | Z | X |
+| O | X | Z |
+|   | O | O |
+
+ Move 9: Computer 2 (Z) 
+| X | Z | X |
+| O | X | Z |
+| Z | O | O |
 
