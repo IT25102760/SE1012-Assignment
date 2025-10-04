@@ -1,46 +1,47 @@
- NEW GAME: TIC-TAC-TOE 
+ NEW GAME STARTED 
+
  Move 1: Player 1 (X) 
-| X |   |   |
+|   | X |   |
 |   |   |   |
 |   |   |   |
 
- Move 2: Computer 1 (O) 
-| X |   |   |
-| O |   |   |
+ Move 2:  (O) 
+| O | X |   |
+|   |   |   |
 |   |   |   |
 
- Move 3: Computer 2 (Z) 
-| X |   |   |
-| O |   | Z |
+ Move 3:  (Z) 
+| O | X |   |
 |   |   |   |
+|   | Z |   |
 
  Move 4: Player 1 (X) 
+| O | X |   |
 | X |   |   |
-| O | X | Z |
-|   |   |   |
+|   | Z |   |
 
- Move 5: Computer 1 (O) 
+ Move 5:  (O) 
+| O | X |   |
 | X |   |   |
-| O | X | Z |
-|   |   | O |
+|   | Z | O |
 
- Move 6: Computer 2 (Z) 
-| X | Z |   |
-| O | X | Z |
-|   |   | O |
+ Move 6:  (Z) 
+| O | X |   |
+| X |   | Z |
+|   | Z | O |
 
  Move 7: Player 1 (X) 
-| X | Z | X |
-| O | X | Z |
-|   |   | O |
+| O | X |   |
+| X | X | Z |
+|   | Z | O |
 
- Move 8: Computer 1 (O) 
-| X | Z | X |
-| O | X | Z |
-|   | O | O |
+ Move 8:  (O) 
+| O | X | O |
+| X | X | Z |
+|   | Z | O |
 
- Move 9: Computer 2 (Z) 
-| X | Z | X |
-| O | X | Z |
-| Z | O | O |
+ Move 9:  (Z) 
+| O | X | O |
+| X | X | Z |
+| Z | Z | O |
 
